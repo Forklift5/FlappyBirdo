@@ -1,2 +1,0 @@
-# FlappyBirdo
-Gamebuino game.
